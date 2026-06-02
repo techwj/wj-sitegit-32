@@ -1,0 +1,59 @@
+{
+  "siteId": "night-market-snack-map",
+  "generatedAt": "2026-06-02T15:38:16.609723",
+  "categories": [
+    "beginner-night-market-snack-map",
+    "advanced-night-market-snack-map",
+    "tips-night-market-snack-map",
+    "history-night-market-snack-map",
+    "trending-night-market-snack-map",
+    "tutorials-night-market-snack-map"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-night-market-snack-map",
+      "category_name": "Beginner Night Market Snack Map"
+    },
+    {
+      "category_slug": "advanced-night-market-snack-map",
+      "category_name": "Advanced Night Market Snack Map"
+    },
+    {
+      "category_slug": "tips-night-market-snack-map",
+      "category_name": "Night Market Snack Map Tips"
+    },
+    {
+      "category_slug": "history-night-market-snack-map",
+      "category_name": "Night Market Snack Map History"
+    },
+    {
+      "category_slug": "trending-night-market-snack-map",
+      "category_name": "Trending Night Market Snack Map"
+    },
+    {
+      "category_slug": "tutorials-night-market-snack-map",
+      "category_name": "Night Market Snack Map Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "night-market-snack-map",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "topbar",
+    "site_title": "Night Market Snack Map Central",
+    "articles_per_row": 4
+  }
+}
